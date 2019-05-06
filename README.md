@@ -7,3 +7,5 @@ install flask using following command if not installed
 ## How to use
 > python app.py
 #### Go to your browser and type in address bar : "xxx.xxx.x.xx:5000/sensehat/temperature" ; where xxx.xxx.x.xx is Raspberry Pi IP
+
+**Note**: You can run it on ubuntu, windows or Mac as well.
